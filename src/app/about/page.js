@@ -90,7 +90,7 @@ export default function AboutPage() {
             transition={{ delay: 0.2, duration: 0.7, type: "spring" }}
           />
           <h1 className="text-4xl font-extrabold text-indigo-700 dark:text-indigo-400 mb-2 text-center">
-            Hi, I'm Rajat Toshniwal
+            Hi, I&apos;m Rajat Toshniwal
           </h1>
           <h2 className="text-lg text-indigo-500 mb-6 text-center font-semibold">
             Full-Stack Developer | API Expert | Freelancer
